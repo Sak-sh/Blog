@@ -45,7 +45,7 @@ const Contact = () => {
                 <Typography variant="h3" gutterBottom>Getting in Touch is Easy!</Typography>    
                 <Text variant="body1">
                     Send me an email  
-                    <IconLink href="mailto:codeforinterview@gmail.com?Subject=This is a subject" target="_blank">
+                    <IconLink href="mailto:sakshichavan005@gmail.com?Subject=This is a subject" target="_blank">
                         <Email sx={{ fontSize: 30 }} />
                     </IconLink>
                 </Text>
